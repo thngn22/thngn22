@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ThangKut3</h1>
 <h3 align="center">An anonymous frontend & backend developer</h3>
-<img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" alt="catcoding" style="max-height: 70%;">
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="catcoding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thngn22&label=Profile%20views&color=0e75b6&style=flat" alt="thngn22" /> </p>
 
