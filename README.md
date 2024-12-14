@@ -35,16 +35,10 @@
     <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> 
   </a>  
   <a href="https://soliditylang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="solidity" width="40" height="40"/> 
-  </a> 
-  <a href="https://ethereum.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40"/> 
+    <img src="https://docs.soliditylang.org/en/v0.8.7/_images/logo.svg" alt="solidity" width="40" height="40"/> 
   </a> 
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
-  </a> 
-  <a href="https://solana.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/solanaio/solanaio-icon.svg" alt="solana" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/1200px-Rustacean-orig-noshadow.svg.png" alt="rust" width="40" height="40"/> 
   </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
